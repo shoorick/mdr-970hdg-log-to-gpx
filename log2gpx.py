@@ -14,7 +14,7 @@ Digital video recorder Mystery MDR-970HDG has GPS receiver and
 it store collected points as tab separated text files named YYYYmmdd_HHMMSS.log
 located in folder GPSLog.
 This proprietary format is quite simple but not yet supported
-by converters such as GPSBabel. This I<quick-and-dirty> script converts
+by converters such as GPSBabel. This script converts
 these log files into GPX, which can be used directly in JOSM,
 uploaded to OpenStreetMap or Mapillary.com, and converted via GPSBabel.
 
